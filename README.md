@@ -10,8 +10,6 @@ It's perfect for those moments when you need to quickly switch to a different si
 ## Features
 
 - **Quick Navigation**: Use a keyboard shortcut or click the toolbar button to navigate away from the current page.
-- **Custom URL Selection**: Choose from predefined URLs or enter a custom URL to navigate to.
-- **Persistent Settings**: Your selected URL preferences are saved and loaded automatically.
 
 ## Installation
 
