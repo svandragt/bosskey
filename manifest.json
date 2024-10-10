@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Boss Key",
   "version": "1.0",
-  "description": "Quickly navigate away from the current website with a keyboard shortcut.",
+  "description": "Quickly 'exit the page' and navigate from the current website with a keyboard shortcut.",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
@@ -10,6 +10,20 @@
   "permissions": [
     "tabs"
   ],
+  "icons": {
+    "16": "icons/output-16x16.png",
+    "32": "icons/output-32x32.png",
+    "48": "icons/output-48x48.png",
+    "128": "icons/output-128x128.png"
+  },
+  "browser_action": {
+    "default_icon": {
+      "16": "icons/output-16x16.png",
+      "32": "icons/output-32x32.png",
+      "48": "icons/output-48x48.png"
+    },
+    "default_title": "Boss Key"
+  },
   "commands": {
     "navigate-away": {
       "suggested_key": {
