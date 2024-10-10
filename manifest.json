@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "Boss Key",
+  "version": "1.0",
+  "description": "Quickly navigate away from the current website with a keyboard shortcut.",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "commands": {
+    "navigate-away": {
+      "suggested_key": {
+        "default": "Shift+Alt+D"
+      },
+      "description": "Navigate Away"
+    }
+  }
+}
