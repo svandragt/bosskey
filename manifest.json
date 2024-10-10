@@ -27,7 +27,7 @@
   "commands": {
     "navigate-away": {
       "suggested_key": {
-        "default": "Shift+Alt+D"
+        "default": "Shift+Alt+E"
       },
       "description": "Navigate Away"
     }
