@@ -5,7 +5,9 @@
 ## Description
 
 **Boss Key** is a simple browser extension that allows you to quickly "exit the page" and navigate away from the current website using a keyboard shortcut or a toolbar button. 
-It's perfect for those moments when you need to quickly switch to a different site without drawing attention. It’s intended to be a safety tool, inspired by the [gov.uk feature](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/).
+It's perfect for those moments when you need to quickly switch to a different site without drawing attention. 
+
+It’s intended to be a safety tool, inspired by the [gov.uk feature](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/).
 
 ## Features
 
